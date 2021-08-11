@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on DiDi
 - 🌱 I’m currently learning Java
-- 📫 How to reach me: fllow there
+- 📫 How to reach me: follow there
