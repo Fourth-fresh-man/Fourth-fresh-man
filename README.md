@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on DiDi
+- 🔭 I’m currently working on SmartX
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: follow there
