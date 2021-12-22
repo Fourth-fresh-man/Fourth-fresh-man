@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on eBay
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, rust
 - 📫 How to reach me: follow there
