@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on eBay
+- 🔭 I’m used to work on eBay
 - 🌱 I’m currently learning Java, rust
 - 📫 How to reach me: follow there
