@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m used to work on eBay, bytedance, and I'm work on aws now.
+- 🔭 I’m used to work on eBay, Bytedance and AWS, and I have no work now.
 - 🌱 I’m currently learning Java, rust.
 - 📫 How to reach me: follow there.
